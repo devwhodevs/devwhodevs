@@ -1,12 +1,14 @@
 ### Oleksandr Ostrovskyi
 
-Engineering Manager at Drift · Shopify developer at Domaine · 10+ years · Lviv, Ukraine.
+Engineering leader who builds Rust systems, Shopify storefronts, and local-first AI tooling · 10+ years · Lviv, Ukraine.
 
 ---
 
 > Rust is a perfect language for AI, because AI can easily write in complicated languages, but the Rust compiler's strictness doesn't let AI make mistakes.
 
-I'm AI-augmented day to day — not autocomplete, leverage. Rust's strictness turns into throughput when the author is a model: the model writes, the compiler checks, I decide what ships. Learning Rustacean, architect everywhere else.
+I'm AI-augmented day to day — not autocomplete, leverage. Rust's strictness turns into throughput when the author is a model: the model writes, the compiler checks, I decide what ships.
+
+Learning Rustacean. Architect everywhere else.
 
 ---
 
@@ -14,4 +16,4 @@ I'm AI-augmented day to day — not autocomplete, leverage. Rust's strictness tu
 
 ---
 
-[devwhodevs.com](https://devwhodevs.com) · [LinkedIn](https://linkedin.com/in/devwhodevs) · devwhodevs@gmail.com
+[devwhodevs.com](https://devwhodevs.com) · [LinkedIn](https://linkedin.com/in/devwhodevs) · <devwhodevs@gmail.com>
