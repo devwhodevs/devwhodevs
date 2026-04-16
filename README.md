@@ -1,6 +1,6 @@
 ### Oleksandr Ostrovskyi
 
-Engineering leader who builds Rust systems, Shopify storefronts, and local-first AI tooling · 10+ years · Lviv, Ukraine.
+Engineering leader who builds Rust systems, Shopify storefronts, and local-first AI tooling · 12+ years · Lviv, Ukraine.
 
 ---
 
